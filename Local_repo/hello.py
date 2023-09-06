@@ -1,4 +1,4 @@
 print('Hello world')
 
-def feature1():
-    print('This is feature1')
+def feature1(num):
+    return num
